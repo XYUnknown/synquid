@@ -5,7 +5,7 @@ packages:
   - '.'
 resolver: lts-15.3
 extra-deps:
-  - z3-4.3.1
+  - z3-408.2
 # extra-include-dirs:
 #  - <z3-home>/src/api
 # extra-lib-dirs:
